@@ -4,7 +4,7 @@ Capstone1 Mission#7
 This program makes you to send the temperature to both thingspeak.com and your own server.
 
 First see this video
->>URL
+>>https://youtu.be/kYAiuE5B97g
 
 In order to execute, you have to first download 2 files above.
 
